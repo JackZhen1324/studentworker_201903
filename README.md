@@ -1,8 +1,6 @@
-# README #
+# Studentworker_201903 #
 
-This is the repo for Student Worker Testing, March 2019 Version.
-
-### Basic Instructions ###
+### Error List ###
 
 * **CLONE** this repo - **DO NOT FORK**
 * Fix any errors in the repository's files
