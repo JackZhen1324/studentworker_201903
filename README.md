@@ -1,14 +1,15 @@
 # Studentworker_201903 #
 
-### Error List ###
+### Error On richest_five.py ###
 
-* line2 ison name wrong 
-* line 38 missing , 
-* line 109 missing {
-* line 4 wrong used of sorted, 
-* wrong spell of separators
-* wrong parameters of output file name
-* fail to print out the first 5  wealthiest accounts
+* Wrong json name on Line7   
+* Wrong spelling of file object name on line 9
+* Missing reverse parameter for sorted fuction on line 9. Since we need descending order, we should set it to True
+* Wrong spelling of separators parameter name for json.dump(*) function on line 10
+* Wrong spelling of the name for output content on line 12
+* Incorrect bound on line 13
+### Error On accounts.json ###
 
-
+* missing comma on line 38 
+* missing bracket on line 109 
 _NOTE:_ The python script has a description of what the script's output should be. Read that carefully.
