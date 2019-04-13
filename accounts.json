@@ -34,7 +34,7 @@
     {
         "balance": 77324,
         "name": {
-            "first": "Gwen"
+            "first": "Gwen",
             "last": "Hyre"
         },
         "type": "savings"
@@ -105,7 +105,7 @@
     },
     {
         "balance": 6288,
-        "name": 
+        "name": {
             "first": "Melissa",
             "last": "Dancy"
         },
