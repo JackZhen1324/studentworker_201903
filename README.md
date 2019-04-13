@@ -12,4 +12,3 @@
 
 * missing comma on line 38 
 * missing bracket on line 109 
-_NOTE:_ The python script has a description of what the script's output should be. Read that carefully.
