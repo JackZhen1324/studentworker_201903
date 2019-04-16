@@ -1,8 +1,8 @@
 # Studentworker_201903 #
 
 ### Errors in richest_five.py ###
-
-* Wrong json name on Line7   
+* redundant ！symbol on line 1
+* Wrong json name on line 7   
 * Wrong spelling of file object name on line 9
 * Missing reverse parameter for sorted fuction on line 9. Since we need descending order, so it should be set to true
 * Wrong spelling of separators parameter name for json.dump(*) function on line 10
