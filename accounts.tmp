@@ -1,162 +1,162 @@
 [
       {
             "balance": 98816,
+            "type": "checking",
             "name": {
-                  "first": "Gerard",
-                  "last": "Marceau"
-            },
-            "type": "checking"
+                  "last": "Marceau",
+                  "first": "Gerard"
+            }
       },
       {
             "balance": 90944,
+            "type": "savings",
             "name": {
-                  "first": "Rosanne",
-                  "last": "Beadle"
-            },
-            "type": "savings"
+                  "last": "Beadle",
+                  "first": "Rosanne"
+            }
       },
       {
             "balance": 90886,
+            "type": "savings",
             "name": {
-                  "first": "Pablo",
-                  "last": "Fahy"
-            },
-            "type": "savings"
+                  "last": "Fahy",
+                  "first": "Pablo"
+            }
       },
       {
             "balance": 84848,
+            "type": "checking",
             "name": {
-                  "first": "Loree",
-                  "last": "Couvillion"
-            },
-            "type": "checking"
+                  "last": "Couvillion",
+                  "first": "Loree"
+            }
       },
       {
             "balance": 77324,
+            "type": "savings",
             "name": {
-                  "first": "Gwen",
-                  "last": "Hyre"
-            },
-            "type": "savings"
+                  "last": "Hyre",
+                  "first": "Gwen"
+            }
       },
       {
             "balance": 73355,
+            "type": "savings",
             "name": {
-                  "first": "Fermin",
-                  "last": "Ransom"
-            },
-            "type": "savings"
+                  "last": "Ransom",
+                  "first": "Fermin"
+            }
       },
       {
             "balance": 68870,
+            "type": "savings",
             "name": {
-                  "first": "Melissa",
-                  "last": "Dancy"
-            },
-            "type": "savings"
+                  "last": "Dancy",
+                  "first": "Melissa"
+            }
       },
       {
             "balance": 62511,
+            "type": "checking",
             "name": {
-                  "first": "Jenny",
-                  "last": "Lenihan"
-            },
-            "type": "checking"
+                  "last": "Lenihan",
+                  "first": "Jenny"
+            }
       },
       {
             "balance": 61558,
+            "type": "savings",
             "name": {
-                  "first": "Hedy",
-                  "last": "East"
-            },
-            "type": "savings"
+                  "last": "East",
+                  "first": "Hedy"
+            }
       },
       {
             "balance": 58442,
+            "type": "checking",
             "name": {
-                  "first": "Arie",
-                  "last": "Dennett"
-            },
-            "type": "checking"
+                  "last": "Dennett",
+                  "first": "Arie"
+            }
       },
       {
             "balance": 50088,
+            "type": "checking",
             "name": {
-                  "first": "Arie",
-                  "last": "Dennett"
-            },
-            "type": "checking"
+                  "last": "Dennett",
+                  "first": "Arie"
+            }
       },
       {
             "balance": 43434,
+            "type": "savings",
             "name": {
-                  "first": "Luana",
-                  "last": "Ivy"
-            },
-            "type": "savings"
+                  "last": "Ivy",
+                  "first": "Luana"
+            }
       },
       {
             "balance": 38448,
+            "type": "checking",
             "name": {
-                  "first": "Fermin",
-                  "last": "Ransom"
-            },
-            "type": "checking"
+                  "last": "Ransom",
+                  "first": "Fermin"
+            }
       },
       {
             "balance": 19355,
+            "type": "checking",
             "name": {
-                  "first": "Hedy",
-                  "last": "East"
-            },
-            "type": "checking"
+                  "last": "East",
+                  "first": "Hedy"
+            }
       },
       {
             "balance": 17798,
+            "type": "checking",
             "name": {
-                  "first": "Tomiko",
-                  "last": "Lamkin"
-            },
-            "type": "checking"
+                  "last": "Lamkin",
+                  "first": "Tomiko"
+            }
       },
       {
             "balance": 11445,
+            "type": "savings",
             "name": {
-                  "first": "Lorri",
-                  "last": "Ashburn"
-            },
-            "type": "savings"
+                  "last": "Ashburn",
+                  "first": "Lorri"
+            }
       },
       {
             "balance": 6288,
+            "type": "checking",
             "name": {
-                  "first": "Melissa",
-                  "last": "Dancy"
-            },
-            "type": "checking"
+                  "last": "Dancy",
+                  "first": "Melissa"
+            }
       },
       {
             "balance": -1702,
+            "type": "savings",
             "name": {
-                  "first": "Stacia",
-                  "last": "Monzon"
-            },
-            "type": "savings"
+                  "last": "Monzon",
+                  "first": "Stacia"
+            }
       },
       {
             "balance": -6048,
+            "type": "savings",
             "name": {
-                  "first": "Lonna",
-                  "last": "Grisham"
-            },
-            "type": "savings"
+                  "last": "Grisham",
+                  "first": "Lonna"
+            }
       },
       {
             "balance": -9825,
+            "type": "checking",
             "name": {
-                  "first": "Pablo",
-                  "last": "Fahy"
-            },
-            "type": "checking"
+                  "last": "Fahy",
+                  "first": "Pablo"
+            }
       }
 ]
